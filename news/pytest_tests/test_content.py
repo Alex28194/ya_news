@@ -1,0 +1,2 @@
+# YaNews Pytest Content
+
